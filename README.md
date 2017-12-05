@@ -11,3 +11,8 @@ Mobile Analysis Kung Fu, Santoku Style
 * Buy at Con
 * Find another place in Las Vegas to buy them.
 * Buy online, bill at home, have picks delivered to hotel with your name and date of arrival, and any other info the hotel front desk suggests you leave on the package.
+
+
+```
+future is back
+```

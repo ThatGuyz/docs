@@ -3,7 +3,7 @@
 ## [FORENSICS]
 * https://www.cybrary.it/video/forensics-overview/
 ## TOOLS
-! don't forget perl language
+don't forget perl language and many others ! 
 ### [Network Analyse]
 * https://wiki.wireshark.org/SampleCaptures?action=AttachFile&do=view&target=rtp_example.raw.gz
 * https://nsrc.org/workshops/2014/pacnog15-netsecurity/raw-attachment/wiki/Track2Agenda/0-2-9-Wireshark_Lab.pdf

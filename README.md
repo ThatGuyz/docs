@@ -7,6 +7,7 @@
 ### To SEE
 * Mobile Analysis Kung Fu, Santoku Style
 ### [Exercise]
+* https://www.isfce.com/sample-pe.htm
 * https://www.cfreds.nist.gov/data_leakage_case/data-leakage-case.html
 ## Bulgar things :
 * FedEx, UPS, USPS: see if any carrier has any restrictions of snail-mailing picks. If you find any that do not disallow it, and local / remote government have no laws, you could use these to delivery your picks to the hotel you will stay. Make sure you have a reservation before you mail these, and include name on reservation and date of arrival on package so the front desk can hold the item for you. It would not hurt to inform the hotel of a package being sent, so you can get special instructions from them. Cost may be high -- might be cheaper to buy a set at con if you are looking at shipping a set.
@@ -18,5 +19,5 @@
 
 
 ```
-future is back
+da
 ```

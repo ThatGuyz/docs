@@ -18,7 +18,8 @@ don't forget perl language and many others !
 * https://www.cfreds.nist.gov/data_leakage_case/data-leakage-case.html
 ## Forensic contest Finalist
 * http://forensicscontest.com/contest01/Finalists/
-
+## That kind of smart
+http://blog.kiddaland.net/
 ## Just thing about it
  Buy online, bill at home, have picks delivered to hotel with your name and date of arrival, and any other info the hotel front desk suggests you leave on the package.
 

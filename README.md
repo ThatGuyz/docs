@@ -1,6 +1,7 @@
 
 # Study
 ## [FORENSICS]
+* http://www.malware-traffic-analysis.net/2017/index.html 
 * https://www.cybrary.it/video/forensics-overview/
 ## TOOLS
 don't forget perl language and many others ! 

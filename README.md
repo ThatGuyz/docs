@@ -10,10 +10,10 @@ don't forget perl language and many others !
 * http://forensicscontest.com/2009/09/25/puzzle-1-anns-bad-aim
 ### [Exercise]
 * http://forensicscontest.com/
-** Contest 01 PUZZLE : http://forensicscontest.com/contest01/Finalists/Kristinn_Gudjonsson/ 
-** Contest 02 PUZZLE : [SOLUTION HERE]
-** Contest 03 PUZZLE : [SOLUTION HERE]
-** Contest 04 PUZZLE : [SOLUTION HERE]
+1. Contest 01 PUZZLE : http://forensicscontest.com/contest01/Finalists/Kristinn_Gudjonsson/ 
+2. Contest 02 PUZZLE : [SOLUTION HERE]
+3. Contest 03 PUZZLE : [SOLUTION HERE]
+4. Contest 04 PUZZLE : [SOLUTION HERE]
 * https://www.isfce.com/sample-pe.htm
 * https://www.cfreds.nist.gov/data_leakage_case/data-leakage-case.html
 ## Forensic contest Finalist

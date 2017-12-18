@@ -1,5 +1,8 @@
 
 # Study
+
+## [OSCP-Certification]
+* http://www.abatchy.com/2017/03/osce-study-plan.html#online-study-resources
 ## [FORENSICS]
 * http://www.malware-traffic-analysis.net/2017/index.html 
 * https://www.cybrary.it/video/forensics-overview/

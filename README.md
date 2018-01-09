@@ -1,5 +1,6 @@
 
-# Study
+# shit
+* https://blog.underc0de.org
 
 ## [OSCP-Certification]
 * http://www.abatchy.com/2017/03/osce-study-plan.html#online-study-resources
